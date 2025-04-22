@@ -1,4 +1,5 @@
 📊 Twitter Sentiment Analysis on #TheSocialDilemma
+
 🧠 About the Project
 This project performs a comprehensive exploratory data analysis (EDA) and sentiment analysis on a real-world Twitter dataset related to the documentary "The Social Dilemma". The dataset, provided by bdCalling IT Ltd., includes over 20,000 tweets containing user metadata, tweet content, sentiment labels, hashtags, and more.
 
